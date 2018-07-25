@@ -41,12 +41,12 @@ body, html {
     background-color: black;
 }
 
-.right {
-    float: right;
+.white {
+    background-color: white;
 }
 
-.left {
-    float: left;
+.right {
+    float: right;
 }
 
 #divider1 {
