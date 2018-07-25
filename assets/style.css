@@ -1,0 +1,117 @@
+body, html {
+    background-color: #f6f6f6;
+}
+
+#mypainting {
+    background-color: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+
+#top {
+    height: 290px;
+}
+
+#bigbox {
+    width: 290px;
+    height: 290px;
+}
+
+.annoying {
+    background-color: #fff4db
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+#divider1 {
+    height: 290px;
+    width: 10px;
+}
+
+#topleftcolumn {
+
+}
+
+.mediumbox {
+    width: 100px;
+    height: 140px;
+}
+
+#divider2 {
+    height: 10px;
+    width: 100px;
+}
+
+#middle {
+    
+}
+
+#divider3 {
+    height: 10px;
+    width: 400px;
+}
+
+#divider4 {
+    height: 100px;
+    width: 10px;
+}
+
+#bottom {
+    height: 100px;
+    width: 400px;
+}
+
+#smallbox {
+    height: 100px;
+    width: 100px;
+}
+
+#smallestbox {
+    height: 45px;
+    width: 40px;    
+}
+
+#divider4 {
+    height: 110px;
+    width: 10px;
+}
+
+#bottomrightcolumn {
+
+}
+
+#divider5 {
+    height: 10px;
+    width: 100%;
+}
+
+#annoyingbox {
+    height: 100px;
+    width: 240px
+}
